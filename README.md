@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Shalini! 👋
 
-<!--
-**shalini0408/shalini0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer exploring AI, agents, and distributed systems.
 
-Here are some ideas to get you started:
+I like building things, figuring out why they break, and occasionally making them work again. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently exploring
+- AI agents and LLM integrations
+- MCP and tool orchestration
+- Building reliable AI systems
+- Python and backend engineering
+
+### 🚀 Things I've built
+- [ConnectEd](https://github.com/shalini0408/ConnectEd) — AI-powered tutor matching platform using React, FastAPI, and LLM integration.
+- [MCP Scheduler](https://github.com/shalini0408/MCP) — Adaptive tool routing using Python, FastAPI, and multi-armed bandits.
+- [DNS Security Lab](https://github.com/shalini0408/dnslab) — DNS cache poisoning simulation and DNSSEC validation.
+
+### 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/shalini-maknoor/)
+- [GitHub](https://github.com/shalini0408)
